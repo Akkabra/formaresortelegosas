@@ -1,0 +1,44 @@
+{
+  "heroImages": [
+    {
+      "src": "/FABRICA SPRING.jpg",
+      "alt": "Fábrica de resortes industriales",
+      "hint": "spring factory"
+    },
+    {
+      "src": "/HEROIMAGE5.jpg",
+      "alt": "Logo de FormaResortes",
+      "hint": "company logo"
+    },
+    {
+      "src": "/HEROIMAGE4.jpg",
+      "alt": "Detalle de un resorte metálico brillante",
+      "hint": "metal spring"
+    },
+    {
+      "src": "/HEROIMAGE6.jpg",
+      "alt": "Detalle de un resorte metálico opaco",
+      "hint": "metal"
+    },
+    {
+      "src": "/HEROIMAGE10.png",
+      "alt": "LOGOTIPO EPICO",
+      "hint": "EPICO"
+    },
+    {
+      "src": "/HEROIMAGE11.png",
+      "alt": "LOGOTIPO EPICO 2",
+      "hint": "EPICO"
+    },
+    {
+      "src": "/HEROIMAGE10.png",
+      "alt": "LOGOTIPO EPICO",
+      "hint": "EPICO"
+    },
+    {
+      "src": "/HEROIMAGE7.jpg",
+      "alt": "Primer plano de un resorte de extensión metálico",
+      "hint": " spring"
+    }
+  ]
+}
