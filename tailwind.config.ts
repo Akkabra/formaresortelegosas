@@ -10,8 +10,13 @@ export default {
   theme: {
     extend: {
       fontFamily: {
+<<<<<<< HEAD
         body: ['Barlow', 'Poppins', 'sans-serif'],
         headline: ['Oswald', 'Poppins', 'sans-serif'],
+=======
+        body: ['Inter', 'sans-serif'],
+        headline: ['Inter', 'sans-serif'],
+>>>>>>> d0bf285 (Initialized workspace with Firebase Studio)
         code: ['monospace'],
       },
       colors: {
