@@ -1,4 +1,3 @@
-<<<<<<< HEAD
 "use client";
 
 import { useState, useEffect } from "react";
@@ -48,8 +47,4 @@ export default function Home() {
       )}
     </div>
   );
-=======
-export default function Home() {
-  return <></>;
->>>>>>> d0bf285 (Initialized workspace with Firebase Studio)
 }
