@@ -38,13 +38,6 @@ const services: Service[] = [
     details: "Cada producto pasa por un estricto proceso de control de calidad, que incluye pruebas de carga, fatiga y dimensionales, para asegurar que cumple con los más altos estándares de la industria.",
     icon: ShieldCheck
   },
-  {
-    id: "consulting",
-    title: "Asesoría Técnica",
-    description: "La experiencia de nuestro lado.",
-    details: "Nuestro equipo de expertos te brinda asesoramiento técnico para seleccionar el material, diseño y tipo de resorte más adecuado para tu proyecto, optimizando costes y funcionalidad.",
-    icon: HardHat
-  },
 ];
 
 export default function ServicesSection() {
@@ -134,23 +127,23 @@ export default function ServicesSection() {
                 className={cn(
                   "flex items-center justify-start text-left p-4 h-auto rounded-lg transition-all duration-300 transform-gpu hover:scale-105 hover:-rotate-1",
                   "bg-card/30 border border-transparent",
-                  activeService.id === service.id && "bg-primary/90 text-primary-foreground border-primary glow-primary"
+                  activeService?.id === service.id && "bg-primary/90 text-primary-foreground border-primary glow-primary"
                 )}
                 onClick={() => handleServiceClick(service)}
               >
-                <div className={cn("p-3 bg-primary/10 rounded-md", activeService.id === service.id && 'bg-white/20 animate-spin-once')}>
-                    <service.icon className={cn("h-7 w-7 text-primary", activeService.id === service.id && "text-white")} />
+                <div className={cn("p-3 bg-primary/10 rounded-md", activeService?.id === service.id && 'bg-white/20 animate-spin-once')}>
+                    <service.icon className={cn("h-7 w-7 text-primary", activeService?.id === service.id && "text-white")} />
                 </div>
                 <div className="ml-4">
                   <p className="font-headline text-lg">{service.title}</p>
-                  <p className={cn("text-sm text-foreground/70", activeService.id === service.id && "text-white/80")}>
+                  <p className={cn("text-sm text-foreground/70", activeService?.id === service.id && "text-white/80")}>
                     {service.description}
                   </p>
                 </div>
               </Button>
             ))}
           </div>
-          <ActiveServiceContent service={activeService} key={animationKey} />
+          {activeService && <ActiveServiceContent service={activeService} key={animationKey} />}
         </div>
       </div>
     </section>
