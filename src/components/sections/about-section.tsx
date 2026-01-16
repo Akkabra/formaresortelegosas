@@ -31,9 +31,6 @@ export default function AboutSection() {
               <p>
                 En FormaResortes LEGO SAS, nuestra misión es entregar productos que no solo cumplen, sino que superan las expectativas de nuestros clientes. Utilizamos materiales de primera y tecnología de punta para garantizar la precisión y durabilidad de cada resorte que producimos.
               </p>
-              <p>
-                Nuestro equipo de expertos trabaja en estrecha colaboración con cada cliente para desarrollar soluciones a medida que se adaptan perfectamente a sus necesidades específicas, desde el diseño inicial hasta la producción en masa.
-              </p>
             </div>
           </AnimateOnScroll>
         </div>
