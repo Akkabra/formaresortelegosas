@@ -25,13 +25,6 @@ type Service = {
 
 const services: Service[] = [
   {
-    id: "design",
-    title: "Diseño y Prototipado",
-    description: "Soluciones a medida para tus necesidades.",
-    details: "Colaboramos contigo para diseñar y prototipar resortes que cumplan con tus especificaciones exactas, utilizando software avanzado y pruebas rigurosas para garantizar el rendimiento óptimo.",
-    icon: PencilRuler
-  },
-  {
     id: "manufacturing",
     title: "Fabricación a Medida",
     description: "Producción de alta precisión.",
