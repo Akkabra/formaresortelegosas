@@ -17,12 +17,12 @@ export default function AboutSection() {
         <div className="mt-16 grid grid-cols-1 md:grid-cols-2 gap-12 items-center">
           <AnimateOnScroll>
             <Image
-              src="/IMAGEABOUTME.png"
-              alt="Close-up of a metal spring"
-              data-ai-hint="metal spring"
+              src="/LOGO PRINCIPAL FORMARESORTES LEGOBLANCO SIN FONDO SAS.png"
+              alt="FormaResortes Logo"
+              data-ai-hint="company logo"
               width={600}
               height={400}
-              className="rounded-lg shadow-xl aspect-video object-cover"
+              className="rounded-lg shadow-xl aspect-video object-contain"
             />
           </AnimateOnScroll>
           <AnimateOnScroll>
