@@ -35,7 +35,7 @@ const products = [
   {
     title: "Resortes de Extensión",
     description: "Fabricados para operar con una carga de tracción.",
-    image: "/Gemini_Generated.jpg",
+    image: "/Gemini_Generated_Image_xy2qy4xy2qy4xy2q.png",
     hint: "extension spring"
   },
   {
