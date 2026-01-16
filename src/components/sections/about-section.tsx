@@ -20,9 +20,9 @@ export default function AboutSection() {
               src="/LOGO PRINCIPAL FORMARESORTES LEGOBLANCO SIN FONDO SAS.png"
               alt="FormaResortes Logo"
               data-ai-hint="company logo"
-              width={600}
-              height={400}
-              className="rounded-lg shadow-xl aspect-video object-contain"
+              width={750}
+              height={500}
+              className="rounded-lg shadow-xl object-contain"
             />
           </AnimateOnScroll>
           <AnimateOnScroll>
