@@ -23,37 +23,37 @@ const products = [
   {
     title: "Resortes de Compresión",
     description: "Ideales para resistir fuerzas de compresión.",
-    image: "/PRODUCTIMAGEBETA4.png",
+    image: "/Gemini_Generated_Image_adowh1adowh1adow.png",
     hint: "compression spring"
   },
   {
     title: "Resortes de Torsión",
     description: "Diseñados para aplicar o resistir un par de torsión.",
-    image: "/PRODUCTIMAGEBETA5.png",
+    image: "/Gemini_Generated_Image_zh909bzh909bzh90.png",
     hint: "torsion spring"
   },
   {
     title: "Resortes de Extensión",
     description: "Fabricados para operar con una carga de tracción.",
-    image: "/PRODUCTIMAGEBETA6.png",
+    image: "/Gemini_Generated_Image_xy2qy4xy2qy4xy2q.png",
     hint: "extension spring"
   },
   {
     title: "Formas de Alambre",
     description: "Piezas a medida para aplicaciones específicas.",
-    image: "/PRODUCTIMAGEBETA7.png",
+    image: "/Gemini_Generated_Image_c759kc759kc759kc.png",
     hint: "wire forms"
   },
   {
     title: "Resortes de Matriz",
     description: "Alta resistencia para maquinaria pesada.",
-    image: "/PRODUCTIMAGEBETA9.png",
+    image: "/Gemini_Generated_Image_dhshsddhshsddhsh.png",
     hint: "die spring"
   },
   {
     title: "Resortes Pequeños",
     description: "Precisión en miniatura para electrónica y más.",
-    image: "/PRODUCTOIMAGEBETA8.png",
+    image: "/Gemini_Generated_Image_wk1vjpwk1vjpwk1v.png",
     hint: "small springs"
   },
 ];

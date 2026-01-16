@@ -47,7 +47,7 @@ const products = [
   {
     title: "Resortes de Matriz",
     description: "Alta resistencia para maquinaria pesada.",
-    image: "/PRODUCTIMAGEBETA9.png",
+    image: "/Gemini_Generated_Image_dhshsddhshsddhsh.png",
     hint: "die spring"
   },
   {
