@@ -12,7 +12,7 @@ import {
   CarouselNext,
   CarouselPrevious,
 } from "@/components/ui/carousel";
-import { PencilRuler, Wrench, ShieldCheck, HardHat, LucideIcon } from "lucide-react";
+import { Wrench, ShieldCheck, HardHat, LucideIcon } from "lucide-react";
 import { cn } from "@/lib/utils";
 
 type Service = {
@@ -24,13 +24,6 @@ type Service = {
 };
 
 const services: Service[] = [
-  {
-    id: "design",
-    title: "Diseño y Prototipado",
-    description: "Soluciones a medida para tus necesidades.",
-    details: "Colaboramos contigo para diseñar y prototipar resortes que cumplan con tus especificaciones exactas, utilizando software avanzado y pruebas rigurosas para garantizar el rendimiento óptimo.",
-    icon: PencilRuler
-  },
   {
     id: "manufacturing",
     title: "Fabricación a Medida",
@@ -44,6 +37,13 @@ const services: Service[] = [
     description: "Garantía de durabilidad y rendimiento.",
     details: "Cada producto pasa por un estricto proceso de control de calidad, que incluye pruebas de carga, fatiga y dimensionales, para asegurar que cumple con los más altos estándares de la industria.",
     icon: ShieldCheck
+  },
+  {
+    id: "consulting",
+    title: "Asesoría Técnica",
+    description: "La experiencia de nuestro lado.",
+    details: "Nuestro equipo de expertos te brinda asesoramiento técnico para seleccionar el material, diseño y tipo de resorte más adecuado para tu proyecto, optimizando costes y funcionalidad.",
+    icon: HardHat
   },
 ];
 
@@ -86,7 +86,7 @@ export default function ServicesSection() {
             Nuestros Servicios
           </h2>
           <p className="mt-4 text-lg text-center max-w-3xl mx-auto text-foreground/80">
-            Ofrecemos soluciones integrales de ingeniería y fabricación para garantizar el componente perfecto para tu proyecto.
+            Fabricamos resortes y formas de alambre a la medida, adaptados a las necesidades específicas de cada cliente, garantizando calidad, precisión y confiabilidad en cada proyecto.
           </p>
         </AnimateOnScroll>
 
