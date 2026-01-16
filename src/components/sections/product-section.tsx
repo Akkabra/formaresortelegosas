@@ -53,7 +53,7 @@ const products = [
   {
     title: "Resortes Pequeños",
     description: "Precisión en miniatura para electrónica y más.",
-    image: "/PRODUCTOIMAGEBETA8.png",
+    image: "/Gemini_Generated_Image_wk1vjpwk1vjpwk1v.png",
     hint: "small springs"
   },
 ];
