@@ -23,7 +23,7 @@ const products = [
   {
     title: "Resortes de Compresión",
     description: "Ideales para resistir fuerzas de compresión.",
-    image: "/PRODUCTIMAGEBETA4.png",
+    image: "/Gemini_Generated_Image_adowh1adowh1adow.png",
     hint: "compression spring"
   },
   {
