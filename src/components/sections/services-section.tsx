@@ -93,7 +93,7 @@ export default function ServicesSection() {
             Nuestros Servicios
           </h2>
           <p className="mt-4 text-lg text-center max-w-3xl mx-auto text-foreground/80">
-            Ofrecemos soluciones integrales de ingeniería y fabricación para garantizar el componente perfecto para tu proyecto.
+            Fabricamos resortes y formas de alambre a la medida, adaptados a las necesidades específicas de cada cliente, garantizando calidad, precisión y confiabilidad en cada proyecto.
           </p>
         </AnimateOnScroll>
 
