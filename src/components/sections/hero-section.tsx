@@ -63,7 +63,7 @@ export default function HeroSection() {
             className="mb-4 w-[227px] md:w-[307px]"
         />
         <h1 className="font-headline text-3xl md:text-4xl lg:text-5xl tracking-wider uppercase drop-shadow-2xl">
-          Ingeniería en <span className="text-primary">Resortes</span>
+          Soluciones en <span className="text-primary">Resortes</span>
         </h1>
         <p className="mt-4 font-body text-base md:text-lg max-w-2xl mx-auto drop-shadow-xl">
           Resortes de precisión y formas de alambre. Calidad, durabilidad y rendimiento en cada vuelta.
