@@ -45,10 +45,10 @@ const products = [
     hint: "wire forms"
   },
   {
-    title: "Resortes de Matriz",
-    description: "Alta resistencia para maquinaria pesada.",
+    title: "Alambres de metal plano",
+    description: "Alambres planos para diversas aplicaciones industriales.",
     image: "/Gemini_Generated_Image_dhshsddhshsddhsh.png",
-    hint: "die spring"
+    hint: "flat wire"
   },
   {
     title: "Resortes Pequeños",
