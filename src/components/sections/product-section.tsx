@@ -29,7 +29,7 @@ const products = [
   {
     title: "Resortes de Torsión",
     description: "Diseñados para aplicar o resistir un par de torsión.",
-    image: "/Gemini_Generated_Image_zh909bzh909bzh90.png",
+    image: "/RESORTETORSION.jpg",
     hint: "torsion spring"
   },
   {
