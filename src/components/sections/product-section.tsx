@@ -41,7 +41,7 @@ const products = [
   {
     title: "Formas de Alambre",
     description: "Piezas a medida para aplicaciones específicas.",
-    image: "/Gemini_Generated_Image_c759kc759kc759kc.png",
+    image: "/FORMASDEALAMBRE.jpg",
     hint: "wire forms"
   },
   {
