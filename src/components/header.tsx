@@ -72,7 +72,7 @@ export default function Header() {
       <div className="container mx-auto px-4 sm:px-6 lg:px-8">
         <div className="flex items-center justify-between h-14">
           <a href="#" className="flex items-center gap-2">
-            <Image src="/LOGO PRINCIPAL FORMARESORTES LEGOBLANCO SIN FONDO SAS.png" alt="FormaResortes Logo" width={80} height={16} className="w-20 md:w-24"/>
+            <Image src="/LOGO PRINCIPAL FORMARESORTES LEGOBLANCO SIN FONDO SAS.png" alt="Logo de FormaResortes LEGO SAS" width={80} height={16} className="w-20 md:w-24"/>
           </a>
           <nav className="hidden md:flex items-center space-x-1 lg:space-x-2">
             {navLinks.map((link) => (
@@ -104,7 +104,7 @@ export default function Header() {
               <SheetContent side="right" className="w-full max-w-xs bg-background/80 backdrop-blur-lg p-6">
                 <div className="flex flex-col h-full">
                   <div className="flex justify-center items-center mb-8">
-                     <Image src="/LOGO PRINCIPAL FORMARESORTES LEGOBLANCO SIN FONDO SAS.png" alt="FormaResortes Logo" width={120} height={24} />
+                     <Image src="/LOGO PRINCIPAL FORMARESORTES LEGOBLANCO SIN FONDO SAS.png" alt="Logo de FormaResortes LEGO SAS" width={120} height={24} />
                   </div>
                   <nav className="flex flex-col items-center justify-center flex-1 space-y-6">
                     {navLinks.map((link) => (

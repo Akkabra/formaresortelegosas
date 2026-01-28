@@ -68,7 +68,7 @@ export default function Footer() {
                 <div className="grid grid-cols-1 sm:grid-cols-2 lg:grid-cols-4 gap-8 text-center sm:text-left">
                     
                     <div className="flex flex-col items-center sm:items-start">
-                        <Image src="/LOGO PRINCIPAL FORMARESORTES LEGOBLANCO SIN FONDO SAS.png" alt="FormaResortes Logo" width={120} height={24} />
+                        <Image src="/LOGO PRINCIPAL FORMARESORTES LEGOBLANCO SIN FONDO SAS.png" alt="Logo de FormaResortes LEGO SAS" width={120} height={24} />
                         <p className="mt-2 text-sm text-gray-400">
                             Innovación y resistencia en cada resorte.
                         </p>
