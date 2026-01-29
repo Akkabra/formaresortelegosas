@@ -41,7 +41,7 @@ const products = [
   {
     title: "Formas de Alambre",
     description: "Piezas a medida para aplicaciones específicas.",
-    image: "/FORMASDEALAMBRE.jpg",
+    image: "/RESORTESFORMA.jpg",
     hint: "wire forms"
   },
   {
@@ -53,7 +53,7 @@ const products = [
   {
     title: "Resortes Pequeños",
     description: "Precisión en miniatura para electrónica y más.",
-    image: "/Gemini_Generated_Image_wk1vjpwk1vjpwk1v.png",
+    image: "/RESORTESPEQUEÑOS.jpg",
     hint: "small springs"
   },
 ];
