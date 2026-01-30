@@ -12,7 +12,7 @@ import {
   CarouselNext,
   CarouselPrevious,
 } from "@/components/ui/carousel";
-import { Wrench, ShieldCheck, HardHat, LucideIcon } from "lucide-react";
+import { Wrench, ShieldCheck, LucideIcon } from "lucide-react";
 import { cn } from "@/lib/utils";
 
 type Service = {
@@ -41,7 +41,7 @@ const services: Service[] = [
 ];
 
 export default function ServicesSection() {
-  const [activeService, setActiveService] = useState<Service>(services[0]);
+  const [activeService, setActiveService] = useState<Service | undefined>(services[0]);
   const [animationKey, setAnimationKey] = useState(0);
 
   const handleServiceClick = (service: Service) => {
