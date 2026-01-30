@@ -133,11 +133,11 @@ export default function ProductSection() {
       </div>
 
       <Dialog open={modalOpen} onOpenChange={setModalOpen}>
-        <DialogContent className="max-w-3xl">
+        <DialogContent className="max-w-4xl w-[90vw]">
           <DialogHeader>
             <DialogTitle className="font-headline text-2xl text-primary">{selectedTitle}</DialogTitle>
           </DialogHeader>
-          <div className="relative aspect-video w-full mt-4">
+          <div className="relative aspect-[4/3] w-full mt-4">
             <Image
               src={selectedImage}
               alt={selectedTitle}
