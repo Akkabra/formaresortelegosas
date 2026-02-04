@@ -1,4 +1,3 @@
 User-agent: *
 Allow: /
-
-Sitemap: https://www.formaresorteslego.com/sitemap.xml
+Sitemap: https://formaresorteslego.com/sitemap.xml
