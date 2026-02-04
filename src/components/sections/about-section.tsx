@@ -22,7 +22,7 @@ export default function AboutSection() {
               data-ai-hint="company logo"
               width={750}
               height={500}
-              className="rounded-lg shadow-xl object-contain"
+              className="rounded-lg shadow-2xl object-contain"
             />
           </AnimateOnScroll>
           <AnimateOnScroll>
