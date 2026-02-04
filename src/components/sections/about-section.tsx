@@ -17,12 +17,12 @@ export default function AboutSection() {
         <div className="mt-16 grid grid-cols-1 md:grid-cols-2 gap-12 items-center">
           <AnimateOnScroll>
             <Image
-              src="/LOGO PRINCIPAL FORMARESORTES LEGOBLANCO SIN FONDO SAS.png"
-              alt="FormaResortes Logo"
-              data-ai-hint="company logo"
-              width={750}
-              height={500}
-              className="rounded-lg shadow-2xl object-contain"
+              src="/IMAGEABOUTME.png"
+              alt="Close-up of a metal spring"
+              data-ai-hint="metal spring"
+              width={600}
+              height={400}
+              className="rounded-lg shadow-2xl glow-primary aspect-video object-cover"
             />
           </AnimateOnScroll>
           <AnimateOnScroll>
@@ -30,6 +30,9 @@ export default function AboutSection() {
               <h3 className="font-headline text-3xl text-primary">Compromiso con la Calidad</h3>
               <p>
                 En FormaResortes LEGO SAS, nuestra misión es entregar productos que no solo cumplen, sino que superan las expectativas de nuestros clientes. Utilizamos materiales de primera y tecnología de punta para garantizar la precisión y durabilidad de cada resorte que producimos.
+              </p>
+              <p>
+                Nuestro equipo de expertos trabaja en estrecha colaboración con cada cliente para desarrollar soluciones a medida que se adaptan perfectamente a sus necesidades específicas, desde el diseño inicial hasta la producción en masa.
               </p>
             </div>
           </AnimateOnScroll>
