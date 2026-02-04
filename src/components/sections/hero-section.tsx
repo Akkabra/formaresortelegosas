@@ -57,7 +57,7 @@ export default function HeroSection() {
       <div className="container px-4 text-white flex flex-col items-center z-10">
         <Image
             src="/LOGO PRINCIPAL FORMARESORTES LEGOBLANCO SIN FONDO SAS.png"
-            alt="FormaResortes LEGO SAS Logo"
+            alt="Logo de FormaResortes LEGO SAS"
             width={307}
             height={160}
             className="mb-4 w-[227px] md:w-[307px]"

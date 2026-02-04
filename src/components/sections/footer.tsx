@@ -1,3 +1,4 @@
+
 import Image from 'next/image';
 import { Instagram, Mail, Phone, MapPin } from 'lucide-react';
 
@@ -126,10 +127,7 @@ export default function Footer() {
                 </div>
 
                 <div className="mt-12 border-t border-gray-800/50 pt-8 text-center text-sm text-gray-500">
-                    <p>&copy; {new Date().getFullYear()} FormaResortes. Todos los derechos reservados.</p>
-                    <p className="mt-2">
-                        Realizado por: <a href="https://braestudioweb.com" target="_blank" rel="noopener noreferrer" className="hover:text-white">Bra Estudio Web</a>
-                    </p>
+                    <p>&copy; {new Date().getFullYear()} FORMARESORTES LEGO SAS. Todos los derechos reservados.</p>
                 </div>
             </div>
         </footer>
