@@ -7,9 +7,9 @@ export const metadata: Metadata = {
   title: 'FORMARESORTES LEGO SAS',
   description: 'Fabricación y venta de resortes de alta calidad y formas de alambre.',
   icons: {
-    icon: '/LOGO PRINCIPAL FORMARESORTES LEGOBLANCO SIN FONDO SAS.png',
-    shortcut: '/LOGO PRINCIPAL FORMARESORTES LEGOBLANCO SIN FONDO SAS.png',
-    apple: '/LOGO PRINCIPAL FORMARESORTES LEGOBLANCO SIN FONDO SAS.png',
+    icon: '/favicon.png',
+    shortcut: '/favicon.png',
+    apple: '/favicon.png',
   }
 };
 
