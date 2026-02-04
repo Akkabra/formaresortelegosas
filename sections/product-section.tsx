@@ -29,31 +29,31 @@ const products = [
   {
     title: "Resortes de Torsión",
     description: "Diseñados para aplicar o resistir un par de torsión.",
-    image: "/FMR5.jpg",
+    image: "public/FMR5.jpg",
     hint: "torsion spring"
   },
   {
     title: "Resortes de Extensión",
     description: "Fabricados para operar con una carga de tracción.",
-    image: "/FMR7.jpg",
+    image: "public/FMR7.jpg",
     hint: "extension spring"
   },
   {
     title: "Formas de Alambre",
     description: "Piezas a medida para aplicaciones específicas.",
-    image: "/FMR1.jpg",
+    image: "public/FMR1.jpg",
     hint: "wire forms"
   },
   {
     title: "Alambres de metal plano",
     description: "Alambres planos para diversas aplicaciones industriales.",
-    image: "/FMR6.jpg",
+    image: "public/FMR6.jpg",
     hint: "flat wire"
   },
   {
     title: "Resortes Pequeños",
     description: "Precisión en miniatura para electrónica y más.",
-    image: "/FMR3.jpg",
+    image: "public/FMR3.jpg",
     hint: "small springs"
   },
 ];
