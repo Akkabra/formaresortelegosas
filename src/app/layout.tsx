@@ -4,8 +4,8 @@ import './globals.css';
 import FloatingContactButton from '@/components/floating-contact-button';
 
 export const metadata: Metadata = {
-  title: 'Spring Showcase',
-  description: 'Showcase of high-quality spring products with an AI-powered suggestion tool.',
+  title: 'FORMARESORTES LEGO SAS',
+  description: 'Fabricación y venta de resortes de alta calidad y formas de alambre.',
   icons: {
     icon: '/LOGO PRINCIPAL FORMARESORTES LEGOBLANCO SIN FONDO SAS.png',
     shortcut: '/LOGO PRINCIPAL FORMARESORTES LEGOBLANCO SIN FONDO SAS.png',
