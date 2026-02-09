@@ -5,7 +5,10 @@ import FloatingContactButton from '@/components/floating-contact-button';
 
 export const metadata: Metadata = {
   title: 'FORMARESORTES LEGO SAS',
-  description: 'Soluciones en resortes de precisión y formas de alambre. Calidad, durabilidad y rendimiento en cada vuelta.',
+  description: "Fabricación de resortes industriales en Colombia",
+  icons: {
+    icon: "/favicon.ico",
+  },
 };
 
 export default function RootLayout({
