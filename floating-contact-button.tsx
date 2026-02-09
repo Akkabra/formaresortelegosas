@@ -36,7 +36,7 @@ export default function FloatingContactButton() {
       )}>
         <Tooltip>
           <TooltipTrigger asChild>
-            <a href="https://wa.me/573101234567" target="_blank" rel="noopener noreferrer">
+            <a href="https://wa.me/573332688419" target="_blank" rel="noopener noreferrer">
               <Button
                 size="icon"
                 className="rounded-full w-14 h-14 shadow-lg btn-shine bg-[#25D366] hover:bg-[#1DA851] text-white"

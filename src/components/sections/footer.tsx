@@ -1,4 +1,3 @@
-
 import Image from 'next/image';
 import { Instagram, Mail, Phone, MapPin } from 'lucide-react';
 
@@ -69,7 +68,7 @@ export default function Footer() {
                 <div className="grid grid-cols-1 sm:grid-cols-2 lg:grid-cols-4 gap-8 text-center sm:text-left">
                     
                     <div className="flex flex-col items-center sm:items-start">
-                        <Image src="/LOGO PRINCIPAL FORMARESORTES LEGOBLANCO SIN FONDO SAS.png" alt="Logo de FormaResortes LEGO SAS" width={120} height={24} />
+                        <Image src="/LOGO PRINCIPAL FORMARESORTES LEGOBLANCO SIN FONDO SAS.png" alt="FormaResortes Logo" width={120} height={24} />
                         <p className="mt-2 text-sm text-gray-400">
                             Innovación y resistencia en cada resorte.
                         </p>
@@ -101,7 +100,7 @@ export default function Footer() {
                             </li>
                             <li className="flex items-center justify-center sm:justify-start gap-2">
                                 <Phone className="w-4 h-4" />
-                                <span>+57 310 123 4567</span>
+                                <span>+57 333 268 8419</span>
                             </li>
                              <li className="flex items-center justify-center sm:justify-start gap-2">
                                 <MapPin className="w-4 h-4" />
@@ -116,7 +115,7 @@ export default function Footer() {
                             <a href="https://www.instagram.com/formaresorteslego/" target="_blank" rel="noopener noreferrer" className="text-gray-400 hover:text-white social-icon">
                                 <Instagram className="h-7 w-7" />
                             </a>
-                            <a href="https://wa.me/573101234567" target="_blank" rel="noopener noreferrer" className="text-gray-400 hover:text-white social-icon">
+                            <a href="https://wa.me/573332688419" target="_blank" rel="noopener noreferrer" className="text-gray-400 hover:text-white social-icon">
                                 <WhatsAppIcon />
                             </a>
                              <a href="mailto:formaresorteslego@gmail.com" className="text-gray-400 hover:text-white social-icon">
@@ -127,7 +126,7 @@ export default function Footer() {
                 </div>
 
                 <div className="mt-12 border-t border-gray-800/50 pt-8 text-center text-sm text-gray-500">
-                    <p>&copy; {new Date().getFullYear()} FORMARESORTES LEGO SAS. Todos los derechos reservados.</p>
+                    <p>&copy; {new Date().getFullYear()} FormaResortes. Todos los derechos reservados.</p>
                 </div>
             </div>
         </footer>

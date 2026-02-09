@@ -67,7 +67,7 @@ const jsonLd = {
   "image": `${url}/LOGO%20PRINCIPAL%20FORMARESORTES%20LEGOBLANCO%20SIN%20FONDO%20SAS.png`,
   "@id": url,
   "url": url,
-  "telephone": "+573101234567",
+  "telephone": "+573332688419",
   "email": "formaresorteslego@gmail.com",
   "address": {
     "@type": "PostalAddress",

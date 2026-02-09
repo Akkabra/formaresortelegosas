@@ -30,7 +30,7 @@ export default function ContactSection() {
               <Phone className="h-7 w-7 text-accent mt-1 shrink-0" />
               <div>
                 <h3 className="font-headline text-xl text-primary">Teléfono</h3>
-                <a href="tel:+573101234567" className="mt-1 text-base text-foreground/80 hover:text-primary transition-colors">+57 310 123 4567</a>
+                <a href="tel:+573332688419" className="mt-1 text-base text-foreground/80 hover:text-primary transition-colors">+57 333 268 8419</a>
               </div>
             </div>
             <div className="bg-card p-6 rounded-lg shadow-lg flex items-start gap-4">

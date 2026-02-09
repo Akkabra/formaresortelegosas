@@ -100,7 +100,7 @@ export default function Footer() {
                             </li>
                             <li className="flex items-center justify-center sm:justify-start gap-2">
                                 <Phone className="w-4 h-4" />
-                                <span>+57 310 123 4567</span>
+                                <span>+57 333 268 8419</span>
                             </li>
                              <li className="flex items-center justify-center sm:justify-start gap-2">
                                 <MapPin className="w-4 h-4" />
@@ -115,7 +115,7 @@ export default function Footer() {
                             <a href="https://www.instagram.com/formaresorteslego/" target="_blank" rel="noopener noreferrer" className="text-gray-400 hover:text-white social-icon">
                                 <Instagram className="h-7 w-7" />
                             </a>
-                            <a href="https://wa.me/573101234567" target="_blank" rel="noopener noreferrer" className="text-gray-400 hover:text-white social-icon">
+                            <a href="https://wa.me/573332688419" target="_blank" rel="noopener noreferrer" className="text-gray-400 hover:text-white social-icon">
                                 <WhatsAppIcon />
                             </a>
                              <a href="mailto:formaresorteslego@gmail.com" className="text-gray-400 hover:text-white social-icon">
